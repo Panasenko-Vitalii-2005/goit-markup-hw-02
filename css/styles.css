@@ -1,6 +1,3 @@
-/*font-family: "Roboto", sans-serif;
-font-family: "Raleway", sans-serif;*/
-
 body {
   background-color: #fff;
   color: #434455;
@@ -31,6 +28,10 @@ a {
 }
 
 .footer-logo .logo-part {
+  color: #4d5ae5;
+}
+
+.footer-logo {
   color: #f4f4fd;
 }
 
